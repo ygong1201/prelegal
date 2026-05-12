@@ -81,6 +81,6 @@
     15. **"Licensee"** means <span class="keyterms_link">Company</span> or <span class="keyterms_link">Partner</span>, as applicable, when it is receiving Brand Elements from the other party to perform its <span class="businessterms_link">Obligations</span> for marketing activities under this Agreement.
     16. **"Personal Data"** has the meaning(s) set forth in the Applicable Laws regarding how a company must protect personal information, personal data, personally identifiable information, or other similar term.
     17. **"Protected Party"** means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.
-    18. **"Recipient"** means a party to this Agreement when the party is receiving Confidential Information from the other party.
+    18. **"Recipient"** means a party to this Agreement when the party receives Confidential Information from the other party.
     19. **"Standard Terms"** means these Common Paper Partnership Standard Terms Version 1.0, which are posted at [https://commonpaper.com/standards/partnership-agreement/1.0](commonpaper.com/standards/partnership-agreement/1.0).
     20. **"Variable"** means a word or phrase in the Standard Terms that is highlighted and capitalized, such as <span class="businessterms_link">Obligations</span> or <span class="keyterms_link">Governing Law</span>.
