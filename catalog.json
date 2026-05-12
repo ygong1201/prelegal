@@ -1,0 +1,79 @@
+{
+  "source": "https://github.com/CommonPaper",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "templates": [
+    {
+      "name": "Mutual Non-Disclosure Agreement (Standard Terms)",
+      "description": "Common Paper standard Mutual NDA: the Standard Terms document that pairs with a Cover Page to form an executed mutual confidentiality agreement.",
+      "filename": "templates/Mutual-NDA.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement (Cover Page)",
+      "description": "Common Paper Mutual NDA Cover Page: the signable, deal-specific page (purpose, term, governing law, signatures) that incorporates the MNDA Standard Terms by reference.",
+      "filename": "templates/Mutual-NDA-coverpage.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Cloud Service Agreement",
+      "description": "Common Paper standard Cloud Service Agreement covering access, support, payment, data, warranties, liability, indemnification, and confidentiality for SaaS / cloud products.",
+      "filename": "templates/CSA.md",
+      "source_repo": "https://github.com/CommonPaper/CSA"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Common Paper standard Design Partner Agreement for giving early users access to a product in exchange for feedback that informs product development.",
+      "filename": "templates/Design-Partner-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Design-Partner-Agreement"
+    },
+    {
+      "name": "Service Level Agreement",
+      "description": "Common Paper Service Level Agreement defining target uptime, target response time, service credits, and termination remedies for a cloud service.",
+      "filename": "templates/SLA.md",
+      "source_repo": "https://github.com/CommonPaper/SLA"
+    },
+    {
+      "name": "Professional Services Agreement",
+      "description": "Common Paper standard Professional Services Agreement governing scoped services performed under SOWs, including deliverables, IP, payment, warranties, and indemnification.",
+      "filename": "templates/PSA.md",
+      "source_repo": "https://github.com/CommonPaper/PSA"
+    },
+    {
+      "name": "Data Processing Agreement",
+      "description": "Common Paper Data Processing Agreement addressing controller/processor and subprocessor relationships, EEA/UK cross-border transfers, security incidents, and data subject rights under GDPR-style regimes.",
+      "filename": "templates/DPA.md",
+      "source_repo": "https://github.com/CommonPaper/DPA"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "Common Paper standard Software License Agreement granting a limited license to install and use software, including updates, restrictions, open source, and warranties.",
+      "filename": "templates/Software-License-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Software-License-Agreement"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Common Paper standard Partnership Agreement covering cooperation obligations, trademark license, fees, dispute escalation, and termination for go-to-market or co-marketing partnerships.",
+      "filename": "templates/Partnership-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Partnership-Agreement"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Common Paper standard Pilot Agreement giving a customer time-limited access to a product for evaluation prior to entering a longer-term Definitive Agreement.",
+      "filename": "templates/Pilot-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Pilot-Agreement"
+    },
+    {
+      "name": "Business Associate Agreement",
+      "description": "Common Paper standard HIPAA Business Associate Agreement establishing PHI safeguards, permitted uses, subcontractor obligations, and breach reporting between a Covered Entity and a Business Associate.",
+      "filename": "templates/BAA.md",
+      "source_repo": "https://github.com/CommonPaper/BAA"
+    },
+    {
+      "name": "AI Addendum",
+      "description": "Common Paper Standard AI Addendum supplementing an underlying agreement to cover AI service use, input/output ownership, model training restrictions, and AI-specific disclaimers.",
+      "filename": "templates/AI-Addendum.md",
+      "source_repo": "https://github.com/CommonPaper/AI-Addendum"
+    }
+  ]
+}
